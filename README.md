@@ -42,3 +42,11 @@ Open `http://localhost:5173` in your browser.
 
 ## Architecture
 See `DESIGN.md` for the full System Design Document.
+
+
+
+<img width="1934" height="996" alt="Screenshot 2025-12-15 231133" src="https://github.com/user-attachments/assets/6845ad9f-4941-4a8b-a87e-45dd6065c744" />
+
+
+
+
